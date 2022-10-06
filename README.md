@@ -6,11 +6,8 @@
 []: # Category: introduction
 []: # Slug: introduction -->
 
-Yuvaaan is a Mars Rover build in the hope of conceptualizing, designing, developing and operating an astronaut-assistive next-gen Mars Rover and perform specific missions in Mars simulated conditions.
-
-The objective of the mission is to provide real-world interdisciplinary engineering solutions, combining practical engineering skills with soft skills to provide solutions for the ongoing problems.
-
-The rover is designed to be a fully autonomous rover, capable of performing tasks such as mapping, sample collection, and sample analysis. The rover is also capable of performing tasks such as obstacle avoidance, navigation, and communication.
+Yuvaaan is a Mars Rover build in the hope of conceptualizing, designing, developing and operating an astronaut-assistive next-gen Mars Rover and perform specific missions in Mars simulated conditions. The rover is designed to be a fully autonomous rover, capable of performing tasks such as mapping, sample collection, and sample analysis. The rover is also capable of performing tasks such as obstacle avoidance, navigation, and communication.
+<img src="images\Auto_render.png">
 
 # About us
 
@@ -30,9 +27,7 @@ In this mission, the rover was be required to conduct reconnaissance operation o
 
 ### 2. <strong>Reconnaissance and Delivery Operation (RDO) </strong>
 
-This mission is divided into two stages, Instrument Deployment and Instrument Maintenance. The rover traverses a short distance to operate on a mock-up instrument panel to perform a set of precise maintenance and deployment operations.
-
-It uses a Robotic Manipulator to pick up objects such as screwdrivers, wrenches, and other tools with a payload of 2Kg. The rover is also required to deploy and maintain instruments on the surface of Mars.
+This mission is divided into two stages, Instrument Deployment and Instrument Maintenance. The rover traverses a short distance to operate on a mock-up instrument panel to perform a set of precise maintenance and deployment operations. It uses a Robotic Manipulator to pick up objects such as screwdrivers, wrenches, and other tools with a payload of 2Kg. The rover is also required to deploy and maintain instruments on the surface of Mars.
 
 ### 3. <strong>Autonomous Expedition (AutEx) </strong>
 
