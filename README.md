@@ -45,4 +45,4 @@ The rover functions as a Mobile Science Laboratory to collect samples from desig
 
 The Samples that were investigated by the rover on-site, are also brought back to the base station uncontaminated and all instruments/tests are on-board the rover. The data collected by the rover include data rekated to soil, rocks and Martian atmosphere. It also documents each selected site by from where the soil sample was taken by generating a wide-angle panorama of a aspect 1:3 height to width ratio showing the full context of the site. The panorama includes the cardinal directions and scale, GPS coordinates of each site, elevation and accuracy range.
 
-<video src = "images\yuvaan-test-run.mp4" style="max-width: 720px;"></video>
+<video src = "images\yuvaan-test-run.mp4" controls="controls" style="max-width: 720px;"></video>
